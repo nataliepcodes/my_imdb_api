@@ -13,7 +13,7 @@ _How have you solved the problem?_\
 Used Flask framework, csv parser function to read the csv file. 
 
 ## Installation
-_How to install your project? npm install? make? make re?_\
+_How to install your project? npm install? make? make re?_
 ```
 pip install Flask
 ```
