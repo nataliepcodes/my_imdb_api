@@ -1,4 +1,4 @@
-# Welcome to My Imdb Api
+# Welcome to My IMDB API
 ***
 
 ## Task
